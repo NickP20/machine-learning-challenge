@@ -17,4 +17,4 @@ I created 5 Machine learning models to evalute their accuracy.
 4. Random Forests Model: Training Data Score = 1.0 Testing Data Score = 0.90904
 5. Support Vector Machine: Training Data Score = 0.8863246233072668 Testing Data Score = 0.9016018306636155
 
-All of the models I created have farily good accuracy with the Random Forest, Deep Learning and SVM models being all very similar in accuracy. Any of these models would be well utilized for further analysis. 
+All of the models I created have farily good accuracy with the Random Forest, Deep Learning and SVM models being all very similar in accuracy. Any of these models would be well utilized for further analysis.  
